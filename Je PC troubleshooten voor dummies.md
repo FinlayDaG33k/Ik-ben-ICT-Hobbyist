@@ -1,4 +1,7 @@
 # Je PC Troubleshooten voor dummies
+```diff
+- Deze guide is nor een work-in-progress! Let er dus op dat alle informatie veranderd kan worden!
+```
 
 Dus...
 Je PC doet het niet?
@@ -12,7 +15,7 @@ Maar geen zorgen, we komen er wel uit!
 Dit is een veel voorkomend probleem, en kan mensen snel in paniek laten raken.
 Geen zorgen, de oplossing is vaak simpel te vinden.
 In deze sectie behandelen we vooral hardware matige fouten.
-Klik hier voor `Bluescreen of Death` troubleshooten!
+[Klik hier voor `Bluescreen of Death` troubleshooten!](https://github.com/FinlayDaG33k/Ik-ben-ICT-Hobbyist/blob/master/Je%20PC%20troubleshooten%20voor%20dummies.md#bluescreen-of-death)
 
 1. Controleer of je de stroomkabel wel hebt aangesloten
     - Een veel voorkomend foutje
