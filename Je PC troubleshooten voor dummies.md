@@ -1,6 +1,7 @@
 # Je PC Troubleshooten voor dummies
 ```diff
-- Deze guide is nor een work-in-progress! Let er dus op dat alle informatie veranderd kan worden!
+- Deze guide is nog een work-in-progress! 
+  Let er dus op dat alle informatie veranderd kan worden!
 ```
 
 Dus...
